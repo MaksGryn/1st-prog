@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "182947967832",
+    "firebase_url": "https://new-one-fa821.firebaseio.com",
+    "project_id": "new-one-fa821",
+    "storage_bucket": "new-one-fa821.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182947967832:android:44b088da6103c0a2",
+        "android_client_info": {
+          "package_name": "com.itproger.dbapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182947967832-i4rja62bru1cjmt09i6lj6bqk6a3o68g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.itproger.dbapp",
+            "certificate_hash": "dde43a63f7d83a2b6da7bd9f1f3b0294506ef55e"
+          }
+        },
+        {
+          "client_id": "182947967832-4e55n96m2osacv6ducd66fp5flae20vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6MWKJBCOR3I48y5hetmAvL90TF1w7NYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182947967832-4e55n96m2osacv6ducd66fp5flae20vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
